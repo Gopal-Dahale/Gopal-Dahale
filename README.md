@@ -6,10 +6,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on enhancing my skills in competitive programming
-- 🌱 I’m currently learning Deep Learning from coursera
-- 👯 I’m looking to collaborate on DL projects
-- 🤔 I’m looking for help with getting intuition of math behind neural networks
+- 🔭 I’m currently working on enhancing my skills in alogrithms on LeetCode.
+- 🌱 I’m currently learning ReactJs, Axios, Firebase & REST APIs.
+- 👯 I’m looking to collaborate on projects in Machine/ Deep Learning.
+- 🤔 I’m looking for help with Dynamic Coloring problem (Fixed Parameter Tractable)
 - 💬 Ask me about any tech related stuff
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gopal-ramesh-dahale-7a3087198/)
 - 😄 Pronouns: He/His
