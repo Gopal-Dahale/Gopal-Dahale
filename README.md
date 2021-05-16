@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: blank
 
-<img src = "https://github-readme-stats.vercel.app/api?username=Gopal-Dahale&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" > <img width = 412 src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gopal-Dahale&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact">
+<img width=500 src = "https://github-readme-stats.vercel.app/api?username=Gopal-Dahale&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" > <img width = 500 src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gopal-Dahale&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact">
+
+![](https://komarev.com/ghpvc/?username=Gopal-Dahale)
