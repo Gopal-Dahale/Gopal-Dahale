@@ -1,5 +1,9 @@
-### Hi there, I am Gopal. 👋
-
+<h1 align="center"> Hi there, I am Gopal. 👋</h1>
+<p align="center">
+  <img src="https://badges.pufler.dev/visits/Gopal-Dahale/Gopal-Dahale"/>
+  <img src="https://badges.pufler.dev/repos/Gopal-Dahale"/>
+  <img src="https://badges.pufler.dev/commits/monthly/Gopal-Dahale" />
+</p>
 <!--
 **Gopal-Dahale/Gopal-Dahale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +19,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: blank
 
-<img width=500 src = "https://github-readme-stats.vercel.app/api?username=Gopal-Dahale&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" > <img width = 500 src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gopal-Dahale&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact">
 
-![](https://komarev.com/ghpvc/?username=Gopal-Dahale)
+<p align = "center">
+  <img width=400 src = "https://github-readme-stats.vercel.app/api?username=Gopal-Dahale&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&">
+  <img width=335 src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gopal-Dahale&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact">
+</p>
