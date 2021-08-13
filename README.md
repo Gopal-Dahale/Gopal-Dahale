@@ -9,8 +9,7 @@
 
 - 🔭 I’m currently working on enhancing my skills in alogrithms on LeetCode.
 - 🌱 I’m currently learning Pytorch, Pytorch lightning, CNNs, RNNs and Transformers.
-- 👯 I’m looking to collaborate on projects in Machine/ Deep Learning.
-<!-- - 🤔 I’m looking for help with Dynamic Coloring problem (Fixed Parameter Tractable) -->
+- 👯 I’m looking to collaborate on projects in Machine/ Deep Learning. <!-- - 🤔 I’m looking for help with Dynamic Coloring problem (Fixed Parameter Tractable) -->
 - 💬 Ask me about any tech related stuff
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gopal-ramesh-dahale-7a3087198/)
 - 😄 Pronouns: He/His
