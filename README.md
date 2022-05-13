@@ -7,13 +7,13 @@
   </p> 
 </p>
 
-- 🔭 I’m currently working on enhancing my skills in alogrithms on LeetCode.
-- 🌱 I’m currently learning Pytorch, Pytorch lightning, CNNs, RNNs and Transformers.
-- 👯 I’m looking to collaborate on projects in Machine/ Deep Learning. <!-- - 🤔 I’m looking for help with Dynamic Coloring problem (Fixed Parameter Tractable) -->
-- 💬 Ask me about any tech related stuff
+- 🔭 I’m currently working to become a [Qiskit Advocate](https://qiskit.org/advocates/).
+- 🌱 I’m currently learning Quantum Computing, Quantum Machine Learning, Cirq and Qiskit.
+- 👯 I’m looking to collaborate on projects in Quantum Computing and/or Quantum Machine/ Deep Learning.
+- 💬 Ask me about any tech related stuff or any Quantum Computing thing.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gopal-ramesh-dahale-7a3087198/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: blank
+- ⚡ Fun fact: I am currently in superposition 😂.
 
 <!-- <h1 align="center"> Hi there, I am Gopal. 👋 </h1> -->
 <!-- <p align="center">
