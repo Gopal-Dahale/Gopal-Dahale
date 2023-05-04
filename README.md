@@ -48,46 +48,44 @@ Here are some ideas to get you started:
 </p> 
 
 
-<h1 align='center'> Tech Stack </h1>
+<h2 align='center'> Tech Stack </h2>
 <div align='center'>
 
   <h3>Quantum Programming Libraries</h3>
   <div style="display:flex;justify-content:center;margin-bottom:20px;">
-    <a href="https://quantumai.google/cirq" target="_blank">                      <img width='auto' height=50 style="padding:10px;" src="./logos/cirq.svg" /> </a>
-    <a href="https://qiskit.org/" target="_blank">                                <img width='auto' height=50 style="padding:10px;" src="./logos/qiskit.svg" /> </a>
-    <a href="https://pennylane.ai/" target="_blank">                              <img width='auto' height=50 style="padding:10px;" src="./logos/pennylane.svg" /> </a>
-    <a href="https://aws.amazon.com/braket/" target="_blank">                     <img width='auto' height=50 style="padding:10px;" src="./logos/aws-braket.png" /> </a>
-    <a href="https://developer.nvidia.com/cuda-quantum" target="_blank">          <img width='auto' height=50 style="padding:10px;" src="./logos/cuda-quantum.svg" /> </a>
-    <a href="https://www.tensorflow.org/quantum" target="_blank">                 <img width='auto' height=50 style="padding:10px;" src="./logos/tfq.svg" /> </a>
+    <a href="https://quantumai.google/cirq" target="_blank">                      <img width='auto' height=50 src="./logos/cirq.svg" /> </a> &#8195;
+    <a href="https://qiskit.org/" target="_blank">                                <img width='auto' height=50 src="./logos/qiskit.svg" /> </a> &#8195;
+    <a href="https://pennylane.ai/" target="_blank">                              <img width='auto' height=50 src="./logos/pennylane.svg" /> </a> &#8195;
+    <a href="https://aws.amazon.com/braket/" target="_blank">                     <img width='auto' height=50 src="./logos/aws-braket.png" /> </a> &#8195;
+    <a href="https://developer.nvidia.com/cuda-quantum" target="_blank">          <img width='auto' height=50 src="./logos/cuda-quantum.svg" /> </a> &#8195;
+    <a href="https://www.tensorflow.org/quantum" target="_blank">                 <img width='auto' height=50 src="./logos/tfq.svg" /> </a>
   </div> 
 
   <h3>Machine Learning Libraries for Hybrid Computation</h3>
   <div style="display:flex;justify-content:center;margin-bottom:20px;">
-    <a href="https://www.tensorflow.org/" target="_blank">                        <img width='auto' height=50 style="padding:10px;" src="./logos/tensorflow.svg" /> </a>
-    <a href="https://pytorch.org/" target="_blank">                               <img width='auto' height=50 style="padding:10px;" src="./logos/pytorch.svg" /> </a>
-    <a href="https://scikit-learn.org/stable/index.html" target="_blank">         <img width='auto' height=50 style="padding:10px;" src="./logos/scikitlearn.svg" /> </a>
-    <a href="https://jax.readthedocs.io/en/latest/index.html" target="_blank">    <img width='auto' height=50 style="padding:10px;" src="./logos/jax.svg" /> </a>
-    <a href="https://flax.readthedocs.io/en/latest/index.html" target="_blank">   <img width='auto' height=50 style="padding:10px;" src="./logos/flax.png" /> </a>
-    <a href="https://github.com/deepmind/jraph" target="_blank">                  <img width='auto' height=50 style="padding:10px;" src="./logos/jraph.png" /> </a>
+    <a href="https://www.tensorflow.org/" target="_blank">                        <img width='auto' height=50 src="./logos/tensorflow.svg" /> </a> &#8195;
+    <a href="https://pytorch.org/" target="_blank">                               <img width='auto' height=50 src="./logos/pytorch.svg" /> </a> &#8195;
+    <a href="https://scikit-learn.org/stable/index.html" target="_blank">         <img width='auto' height=50 src="./logos/scikitlearn.svg" /> </a> &#8195;
+    <a href="https://jax.readthedocs.io/en/latest/index.html" target="_blank">    <img width='auto' height=50 src="./logos/jax.svg" /> </a> &#8195;
+    <a href="https://flax.readthedocs.io/en/latest/index.html" target="_blank">   <img width='auto' height=50 src="./logos/flax.png" /> </a> &#8195;
+    <a href="https://github.com/deepmind/jraph" target="_blank">                  <img width='auto' height=50 src="./logos/jraph.png" /> </a> &#8195;
   </div> 
 
   <h3>Programming Languages</h3>
   <div style="display:flex;justify-content:center;margin-bottom:20px;">
-    <a href="https://isocpp.org/" target="_blank">                                <img width='auto' height=50 style="padding:10px;" src="./logos/cpp.svg" /> </a>
-    <a href="https://www.python.org/" target="_blank">                            <img width='auto' height=50 style="padding:10px;" src="./logos/python.svg" />   </a>
-    <a href="https://www.latex-project.org/" target="_blank">                     <img width='auto' height=50 style="padding:10px;background-color:#fff" src="./logos/latex.svg" /> </a>
-    <a href="https://www.markdownguide.org/" target="_blank">                     <img width='auto' height=50 style="padding:10px;background-color:#fff" src="./logos/Markdown.svg" /> </a>
+    <a href="https://isocpp.org/" target="_blank">                                <img width='auto' height=50 src="./logos/cpp.svg" /> </a> &#8195;
+    <a href="https://www.python.org/" target="_blank">                            <img width='auto' height=50 src="./logos/python.svg" />   </a> &#8195;
   </div> 
 
   <h3>Editors</h3>
   <div style="display:flex;justify-content:center;margin-bottom:20px;">
-    <a href="https://code.visualstudio.com/" target="_blank">                     <img width='auto' height=50 style="padding:10px;" src="./logos/vscode.svg" /> </a>
-    <a href="https://jupyter.org/" target="_blank">                               <img width='auto' height=50 style="padding:10px;" src="./logos/jupyter.svg" /> </a>
+    <a href="https://code.visualstudio.com/" target="_blank">                     <img width='auto' height=50 src="./logos/vscode.svg" /> </a> &#8195;
+    <a href="https://jupyter.org/" target="_blank">                               <img width='auto' height=50 src="./logos/jupyter.svg" /> </a>
   </div> 
 </div> 
 
 
-<h1 align='center'> Connect with me </h1>
+<h2 align='center'> Connect with me </h2>
 <div align='center'>
   <a href="https://www.linkedin.com/in/gopald27/">                                <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/> </a>
   <a href="https://twitter.com/gopald27">                                         <img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&'/> </a>
