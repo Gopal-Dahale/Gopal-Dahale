@@ -54,34 +54,34 @@ Here are some ideas to get you started:
 
   <h3>Quantum Programming Libraries</h3>
   <div style="display:flex;justify-content:center;margin-bottom:20px;">
-    <a href="https://quantumai.google/cirq" target="_blank">                      <img width='auto' height=50 src="./logos/cirq.svg" /> </a> &#8195;
-    <a href="https://qiskit.org/" target="_blank">                                <img width='auto' height=50 src="./logos/qiskit.svg" /> </a> &#8195;
-    <a href="https://pennylane.ai/" target="_blank">                              <img width='auto' height=50 src="./logos/pennylane.svg" /> </a> &#8195;
-    <a href="https://aws.amazon.com/braket/" target="_blank">                     <img width='auto' height=50 src="./logos/aws-braket.png" /> </a> &#8195;
-    <a href="https://developer.nvidia.com/cuda-quantum" target="_blank">          <img width='auto' height=50 src="./logos/cuda-quantum.svg" /> </a> &#8195;
-    <a href="https://www.tensorflow.org/quantum" target="_blank">                 <img width='auto' height=50 src="./logos/tfq.svg" /> </a>
+    <a href="https://quantumai.google/cirq" target="_blank">                      <img width='auto' height=50 src="https://quantumai.google/static/site-assets/images/marketing/icons/shared-ic-cirq.png" /> </a> &#8195;
+    <a href="https://qiskit.org/" target="_blank">                                <img width='auto' height=50 style="background-color:red;padding:20px;" src="https://pbs.twimg.com/profile_images/1327348581372575744/6M3Ll1hq_400x400.jpg" /> </a> &#8195;
+    <a href="https://pennylane.ai/" target="_blank">                              <img width='auto' height=50 src="https://pennylane.ai/blog/images/logo.png" /> </a> &#8195;
+    <a href="https://aws.amazon.com/braket/" target="_blank">                     <img width='auto' height=50 src="https://awsvideocatalog.com/images/aws/png/PNG%20Light/Quantum%20Technologies/AWS-Braket.png" /> </a> &#8195;
+    <a href="https://developer.nvidia.com/cuda-quantum" target="_blank">          <img width='auto' height=50 src="https://developer.nvidia.com/sites/default/files/akamai/nvidia-cuquantum-icon.svg" /> </a> &#8195;
+    <a href="https://www.tensorflow.org/quantum" target="_blank">                 <img width='auto' height=50 src="https://quantumai.google/static/site-assets/images/marketing/icons/shared-ic-tf-quantum.png" /> </a>
   </div> 
 
   <h3>Machine Learning Libraries for Hybrid Computation</h3>
   <div style="display:flex;justify-content:center;margin-bottom:20px;">
-    <a href="https://www.tensorflow.org/" target="_blank">                        <img width='auto' height=50 src="./logos/tensorflow.svg" /> </a> &#8195;
-    <a href="https://pytorch.org/" target="_blank">                               <img width='auto' height=50 src="./logos/pytorch.svg" /> </a> &#8195;
-    <a href="https://scikit-learn.org/stable/index.html" target="_blank">         <img width='auto' height=50 src="./logos/scikitlearn.svg" /> </a> &#8195;
-    <a href="https://jax.readthedocs.io/en/latest/index.html" target="_blank">    <img width='auto' height=50 src="./logos/jax.svg" /> </a> &#8195;
-    <a href="https://flax.readthedocs.io/en/latest/index.html" target="_blank">   <img width='auto' height=50 src="./logos/flax.png" /> </a> &#8195;
-    <a href="https://github.com/deepmind/jraph" target="_blank">                  <img width='auto' height=50 src="./logos/jraph.png" /> </a> &#8195;
+    <a href="https://www.tensorflow.org/" target="_blank">                        <img width='auto' height=50 src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png" /> </a> &#8195;
+    <a href="https://pytorch.org/" target="_blank">                               <img width='auto' height=50 src="https://www.svgrepo.com/show/354240/pytorch.svg" /> </a> &#8195;
+    <a href="https://scikit-learn.org/stable/index.html" target="_blank">         <img width='auto' height=50 src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /> </a> &#8195;
+    <a href="https://jax.readthedocs.io/en/latest/index.html" target="_blank">    <img width='auto' height=50 src="https://upload.wikimedia.org/wikipedia/commons/8/86/Google_JAX_logo.svg" /> </a> &#8195;
+    <a href="https://flax.readthedocs.io/en/latest/index.html" target="_blank">   <img width='auto' height=60 src="https://flax.readthedocs.io/en/latest/_static/flax.png" /> </a> &#8195;
+    <a href="https://github.com/deepmind/jraph" target="_blank">                  <img width='auto' height=70 src="http://www.pattersonconsultingtn.com/blog/images/JraphLogo.png" /> </a> &#8195;
   </div> 
 
   <h3>Programming Languages</h3>
   <div style="display:flex;justify-content:center;margin-bottom:20px;">
-    <a href="https://isocpp.org/" target="_blank">                                <img width='auto' height=50 src="./logos/cpp.svg" /> </a> &#8195;
-    <a href="https://www.python.org/" target="_blank">                            <img width='auto' height=50 src="./logos/python.svg" />   </a> &#8195;
+    <a href="https://isocpp.org/" target="_blank">                                <img width='auto' height=60 src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" /> </a> &#8195;
+    <a href="https://www.python.org/" target="_blank">                            <img width='auto' height=60 src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />   </a> &#8195;
   </div> 
 
   <h3>Editors</h3>
   <div style="display:flex;justify-content:center;margin-bottom:20px;">
-    <a href="https://code.visualstudio.com/" target="_blank">                     <img width='auto' height=50 src="./logos/vscode.svg" /> </a> &#8195;
-    <a href="https://jupyter.org/" target="_blank">                               <img width='auto' height=50 src="./logos/jupyter.svg" /> </a>
+    <a href="https://code.visualstudio.com/" target="_blank">                     <img width='auto' height=50 src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" /> </a> &#8195;
+    <a href="https://jupyter.org/" target="_blank">                               <img width='auto' height=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" /> </a>
   </div> 
 </div> 
 
@@ -90,4 +90,7 @@ Here are some ideas to get you started:
 <div align='center'>
   <a href="https://www.linkedin.com/in/gopald27/">                                <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/> </a>
   <a href="https://twitter.com/gopald27">                                         <img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&'/> </a>
+  <a href="https://stackoverflow.com/users/16026443/gopal-dahale">                                         <img src='https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white'/> 
+</a>
+  <a href="https://dahalegopal27.medium.com/">                                         <img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white'/> </a>
 </div>
