@@ -1,13 +1,14 @@
-<p> 
+<div> 
   <h1 align="center"> $\text{Hi there, I am \ket{Gopal}}$👋</h1> 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Gopal-Dahale"/>
-  </p> 
-</p>
+</div>
+<div align="center">
+   <img src="https://komarev.com/ghpvc/?username=Gopal-Dahale"/>
+</div> 
+
 
 Hi there! I am a Quantum Machine Learning enthusiast with experience in related research areas. I am currently looking to collaborate with like-minded individuals to advance the field and learn new things.
 
-- 🔭 I am actively seeking PhD opportunities in Quantum Computing and Algorithms, Variational Methods, Quantum Machine Learning.
+- 🔭 I am actively seeking PhD opportunities in Quantum Computing and Algorithms, Variational Methods and Quantum Machine Learning.
 - 🌱 I am constantly learning new topics and techniques in Quantum Computing and Algorithms, such as Quantum Noise Mitigation, Quantum Machine Learning and Quantum Chemistry.
 - 🧮 I am currently working on Carbon-capture using Quantum Computing. I am also developing algorithms for Measurement based Imaginary Time Evolution (ITE).
 - 👯 I am looking to collaborate on research projects related to Quantum Computing and Algorithms.
@@ -38,14 +39,14 @@ Here are some ideas to get you started:
 
 <h1 align='center'> Statistics </h1>
 
-<p align = "center">
+<div align = "center">
   <img width='auto' height=170 src = "https://github-readme-stats.vercel.app/api?username=Gopal-Dahale&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&">
   <img width='auto' height=170 src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gopal-Dahale&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact">
-</p>
+</div>
 
-<p align = "center">
+<div align = "center">
  <img width='auto' height=170 src="https://github-readme-streak-stats.herokuapp.com/?user=Gopal-Dahale&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0" />
-</p> 
+</div> 
 
 
 <h2 align='center'> Tech Stack </h2>
