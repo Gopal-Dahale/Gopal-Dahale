@@ -56,7 +56,7 @@ Here are some ideas to get you started:
   <div style="display:flex;justify-content:center;margin-bottom:20px;">
     <a href="https://quantumai.google/cirq" target="_blank">                      <img width='auto' height=50 src="https://quantumai.google/static/site-assets/images/marketing/icons/shared-ic-cirq.png" /> </a> &#8195;
     <a href="https://qiskit.org/" target="_blank">                                <img width='auto' height=50 style="background-color:red;padding:20px;" src="https://pbs.twimg.com/profile_images/1327348581372575744/6M3Ll1hq_400x400.jpg" /> </a> &#8195;
-    <a href="https://pennylane.ai/" target="_blank">                              <img width='auto' height=50 src="https://pennylane.ai/blog/images/logo.png" /> </a> &#8195;
+    <a href="https://pennylane.ai/" target="_blank">                              <img width='auto' height=50 src="https://avatars.githubusercontent.com/u/64286425?s=200&v=4" /> </a> &#8195;
     <a href="https://aws.amazon.com/braket/" target="_blank">                     <img width='auto' height=50 src="https://awsvideocatalog.com/images/aws/png/PNG%20Light/Quantum%20Technologies/AWS-Braket.png" /> </a> &#8195;
     <a href="https://developer.nvidia.com/cuda-quantum" target="_blank">          <img width='auto' height=50 src="https://developer.nvidia.com/sites/default/files/akamai/nvidia-cuquantum-icon.svg" /> </a> &#8195;
     <a href="https://www.tensorflow.org/quantum" target="_blank">                 <img width='auto' height=50 src="https://quantumai.google/static/site-assets/images/marketing/icons/shared-ic-tf-quantum.png" /> </a>
