@@ -6,11 +6,11 @@
 </div> 
 
 
-Hi there! I am a Quantum Machine Learning enthusiast with experience in related research areas. I am currently looking to collaborate with like-minded individuals to advance the field and learn new things.
+Hi there! I am a Quantum Computing enthusiast with experience in related research areas. I want to collaborate with like-minded individuals to advance the field and learn new things.
 
-- 🔭 I am actively seeking PhD opportunities in Quantum Computing and Algorithms, Variational Methods and Quantum Machine Learning.
+- 🔭 I am pursuing my master’s in Quantum Science and Engineering at EPFL.
 - 🌱 I am constantly learning new topics and techniques in Quantum Computing and Algorithms, such as Quantum Noise Mitigation, Quantum Machine Learning and Quantum Chemistry.
-- 🧮 I am currently working on Carbon-capture using Quantum Computing. I am also developing algorithms for Measurement based Imaginary Time Evolution (ITE).
+- 🧮 I am currently working on sample-based quantum diagonalization as a part of my semester project at EPFL.
 - 👯 I am looking to collaborate on research projects related to Quantum Computing and Algorithms.
 - 💬 Please feel free to ask me any questions about my research interests and experiences.
 - ⚡ Fun fact: Working on quantum computing has left me in a state of entanglement with my research 😂.
